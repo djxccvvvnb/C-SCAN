@@ -1,0 +1,23 @@
+# Build outputs
+*.exe
+*.obj
+*.lib
+*.dll
+*.pdb
+*.exp
+*.ilk
+
+# IDE
+.vs/
+*.vcxproj
+*.suo
+*.sln
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.log
+*.tmp
+*.bak
