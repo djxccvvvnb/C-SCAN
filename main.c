@@ -89,7 +89,7 @@ static void print_banner(void) {
     printf("           C-SCAN  TCP/UDP端口扫描器 (v0.0.2-dev)\n");
     printf("============================================================\n\n");
     printf("安全提示：本程序仅允许扫描自己拥有权限的设备。\n");
-    printf("         未经许可扫描他人网络属于违法行为，请合法使用。\n\n");
+    printf("         未经许可扫描他人网络属于违法行为，请合法使用。\n报错是特色:)\n");
 }
 
 static void print_changelog(void) {
