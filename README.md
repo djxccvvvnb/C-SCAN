@@ -1,5 +1,5 @@
 # C-SCAN
-
+报错是特色:)
 跨平台 TCP/UDP 端口扫描器，基于 C 语言实现，兼容 Windows、Linux、macOS。
 
 ## 功能特性
